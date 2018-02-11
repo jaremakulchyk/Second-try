@@ -1,0 +1,4 @@
+# folder with a project which won't be changed
+First_Project/
+
+docs/*.txt # this means that all files with txt extension will be ignored 
